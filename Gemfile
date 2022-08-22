@@ -4,7 +4,7 @@ gem 'rails', '4.1.1'
 
 gem 'pg', '~> 0.17.1'
 gem 'redis', '~> 3.0.7'
-gem 'puma', '~> 2.8.2'
+gem 'puma', '~> 4.3.12'
 
 gem 'figaro', '~> 0.7.0'
 gem 'devise', '~> 3.2.4'

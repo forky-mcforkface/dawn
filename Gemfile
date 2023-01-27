@@ -7,7 +7,7 @@ gem 'redis', '~> 3.0.7'
 gem 'puma', '~> 2.8.2'
 
 gem 'figaro', '~> 0.7.0'
-gem 'devise', '~> 3.2.4'
+gem 'devise', '~> 4.7.1'
 gem 'excon', '~> 0.34.0'
 gem 'rabl', '~> 0.10.0'
 
